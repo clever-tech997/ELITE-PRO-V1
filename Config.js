@@ -4,13 +4,13 @@ const chalk = require('chalk');
 
 // Contact details
 global.session = process.env.SESSION_ID || "";
-global.ownernomer = process.env.OWNER_NOMER || "2348109263390";
+global.ownernomer = process.env.OWNER_NOMER || "255794469700";
 global.ytname = process.env.YT_NAME || "YT: @EliteProTech";
 global.socialm = process.env.SOCIAL_M || "GitHub: EliteProTech";
 global.location = process.env.LOCATION || "Nigeria, Port Harcourt";
 
 // Creator details
-global.ownernumber = process.env.OWNER_NUMBER || '2348109263390';
+global.ownernumber = process.env.OWNER_NUMBER || '255794469700';
 global.ownername = process.env.OWNER_NAME || 'ElitePro';
 global.botname = process.env.BOT_NAME || 'ELITE-PRO-V1';
 
@@ -36,7 +36,7 @@ global.themeemoji = process.env.THEME_EMOJI || '👨‍💻';
 
 // Sticker details
 global.packname = process.env.PACKNAME || 'Sticker By';
-global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: +2348109263390';
+global.author = process.env.AUTHOR || 'ELITEPRO\n\nContact: 255794469700';
 // Default settings 2
 global.typemenu = process.env.TYPE_MENU || 'v2';
 global.wm = process.env.WM || "Youtube @EliteProTech";
